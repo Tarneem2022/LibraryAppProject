@@ -1,0 +1,8 @@
+sprint,2016,jake knapp,non-fiction,self-help
+the lost world,1912,sir arthur conan doyle,fiction,mystery
+human givens,2013,joe griffin,sceince,psychology
+a study in scarlet,1887,sir arthur conan doyle,fiction,mystery
+deep work,2016,cal newport,non-fiction,self-help
+make time,2018,jake knapp,non-fiction,time-management
+the big 4,1927,agatha christie,fiction,mystery
+n or m,1941,agatha christie,fiction,mystery
